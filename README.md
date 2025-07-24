@@ -1,4 +1,5 @@
-# Hi there! <img width="94" height="53" alt="pngaaa com-5937086" src="https://github.com/user-attachments/assets/2664a8f3-78fe-49ac-949e-a9b5a84fde9b" />
+# Hi there! <img width="94" height="81" alt="pngaaa com-5937086 (1)" src="https://github.com/user-attachments/assets/77360688-9d0c-409e-bc77-f5b536e1464b" />
+
 
 This is my little corner where I publish my mini codes in C++. I just started learning it and I'm trying a lot of different things.
 
