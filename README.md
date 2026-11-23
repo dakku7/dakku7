@@ -5,6 +5,7 @@ This is my little corner where I publish my mini codes in C++. I just started le
 
 # Projects:
 My best projects at this point, the higher it pinned, the better!
+![til](./screen/back1.png)
 ## - <a href="https://github.com/dakku7/deltarune_ralsei_clicker"> Deltarune Clicker Game </a>
 ## - <a href="https://github.com/dakku7/schoolmate"> SchoolMate(uni project) </a>
 ## - <a href="https://github.com/dakku7/Bochi-the-Rock-Themed-Website"> Bochi the Rock Themed Website(uni project) </a>
