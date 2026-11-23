@@ -10,4 +10,4 @@ My best projects at this point, the higher it pinned, the better!
 ## - <a href="https://github.com/dakku7/schoolmate"> SchoolMate(uni project) </a>
 ## - <a href="https://github.com/dakku7/Bochi-the-Rock-Themed-Website"> Bochi the Rock Themed Website(uni project) </a>
 
-![](https://github.com/dakku7/deltarune_ralsei_clicker/tree/main/screen/back1.png)
+![alt](https://github.com/dakku7/deltarune_ralsei_clicker/tree/main/screen/back1.png)
