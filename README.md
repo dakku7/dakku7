@@ -10,4 +10,4 @@ My best projects at this point, ordered from my strongest projects down!
 
 ![alt](https://github.com/dakku7/deltarune_ralsei_clicker/blob/main/screen/back1.png?raw=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakku7&layout=compact&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakku7&layout=compact&theme=transparent&hide_border=true&hide=c)
